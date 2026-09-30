@@ -1,0 +1,5 @@
+i = int(input("Digite a idade: "))
+if i <= 12: print("Criança")
+elif i <= 17: print("Adolescente")
+elif i <= 59: print("Adulto")
+else: print("Idoso")

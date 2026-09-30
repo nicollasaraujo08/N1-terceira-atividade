@@ -1,0 +1,5 @@
+n1 = int(input("Digite o primeiro número: "))
+n2 = int(input("Digite o segundo número: "))
+print("Primeiro número:", n1)
+print("Segundo número:", n2)
+print("Soma:", n1 + n2)
